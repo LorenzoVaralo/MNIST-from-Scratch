@@ -1,4 +1,6 @@
 # MNIST from Scratch
+<h2>A explicação deste código está em meu blog, confira: <a href="https://medium.com/@lorenzovarallo0/mnist-from-scratch-3335ca7b309b#8d94-4e851f4035af">MNIST From Scratch</a></h2>
+
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png)
 
